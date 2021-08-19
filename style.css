@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'generic';
+    src: url(font.otf) format('opentype');
+}
+
+body {
+    font-family: generic;
+    text-align:justify; text-justify: newspaper;
+}
+
+.container {
+    position: absolute;
+    width: 70vw;
+    left: 15vw;
+    right:15vw;
+}
+
+#headerImage {
+    width: 100%;
+    padding-top: 14vh;
+    padding-bottom: 5vh;
+}
+
+#bloc {
+    font-size: 2vw;
+}
