@@ -5,7 +5,8 @@
 
 body {
     font-family: generic;
-    text-align:justify; text-justify: newspaper;
+    text-align: justify;
+    text-justify: distribute;
 }
 
 .container {
